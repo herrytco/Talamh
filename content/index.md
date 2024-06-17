@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Talamh World
 ---
+This is a collection of articles describing the world *Talamh*, a fantasy world used for TTRPGs. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Vitalis]]
