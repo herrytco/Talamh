@@ -1,0 +1,10 @@
+Each living soul creates a universe for itself to live in. This place is filled with images of past experiences, traumata, hopes and desires. It exists in the [[Planes|Astral Plane]], where it is folded on itself and contained entirely in the persons soul. 
+
+The person creating the mindscape is represented as an exact copy in it. This means, that there is no difference in talking to the shadow in the mindscape or to the real person on the material plane. Other people are represented as the owner perceives them. Because of that, people can be different in appearence and spirit, here is no authenticity of the presented information. These foreign shadows contain all knowledge the owner has as well as all assumptions about them.
+
+The mindscape is not bound to the same laws as the material plane. Inside of it, everything the mind can imagine is possible. The only requirement to perform these feats is true conviction. If you are convinced that you are able to do something, then you can do it in the mindscape. Also, time is relative there. Things can happen slower or faster relative to the material plane. 
+
+## Access
+Every person has access to their mindscape. They enter it every time they fall asleep and leave it when awake. While dreaming, the mindscape actively changes around the owner to provide them the possibility to help them deal with emotions, solve problems or manage hidden desires. Through meditation and a strong harmony with the own spirit, people can access the mindscape actively. In this state, they are not driven by their subconscious but can actively interact with it.
+
+Two people, that attuned their [[Aura]] with each other can enter the other mindscape as well. This possibility manifests as a gateway shaped by the other mindscape appearing in the foreign one. In this state, the visiting body becomes magically inactive, their Aura becomes small and passive. While visiting, the soul of the visitor 

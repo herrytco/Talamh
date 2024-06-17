@@ -1,0 +1,1 @@
+There once was a omnipotent deity called **Errea**. They existed in a place outside of space and time. While bringing the universe into existence, the gods essence shattered into distinct pieces, called **facettes**. 
