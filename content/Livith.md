@@ -1,3 +1,7 @@
 Ultimately, all existing matter is a form of condensed [[Vitalis]], that was transformed into matter. Regular matter like rocks, water or air is energetically stable. This means that it requires a lot of additional energy, to transform the matter back into Vitalis. Livith is also a solid form of Vitalis, but it is not energetically stable. It lies in between pure energy and stable matter, making it possible to discharge it in a flash of energy, but also letting it settle into pure matter. 
 
 Livith is a crystalline mineral, that has a bright glow to it. If the level of ambient Vitalis in an area rises above a threshold, the crystals start forming. They grow rather slowly and serve as a buffer of energy. While the energy density in the area is high, the crystals are forming. If the global stream shifts, and the area lacks of ambient energy, the crystals start dissipating energy into the environment again.
+
+Similar to a living body, a livith crystal shows an [[Aura]]. Compared to a living one, it is far more regular and even. This aura also has a specific resonance frequency, making it repellant to a living one. This frequency stays to same for each type of livith crystal. 
+
+![[Livith-Image.png]]
