@@ -1,0 +1,1 @@
+Each sentient organism houses a soul, a collection of information that holds everything that characterizes an individual. It determines personality, intelligence, and every other personal trait. Souls originate from the [[Planes|Spiritual Plane]]. There, [[Vitalis]] can sediment into souls, similar to the formation of [[Livith]] on the [[Planes|Material Plane]]. 
