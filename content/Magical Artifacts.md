@@ -1,0 +1,5 @@
+A magical artifact has two main components: A power source and an information source. The power source provides the necessary energy to cast the spell specified by the information source. These artifacts provide a way to create a permanent representation of a magical ability usable by *nearly every* person.
+## Energy Source
+Every active [[Aura]] can be used to draw energy from. This makes a [[Livith]] crystal the perfect source to power an artifact over longer periods of time, but the energy can also come from the user who is using the artifact. All they need to do is push energy into the artifact to start whatever spell is engraved into the information source. 
+## Information Source
+The information source defines, what happens when a magical artifact is used. It is the physical image of a [[Magic|Refined Spell]], a spell the creator of an artifact has mastered. They engraved their understanding and knowledge about the spell onto the information source. 

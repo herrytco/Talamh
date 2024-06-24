@@ -7,7 +7,7 @@ The village features a central marketplace where gem traders and artisans engage
 Gemshire's residents are known for their proficiency in gem-related industries, and the village maintains a focus on the pragmatic aspects of its craft. The balance struck between the rugged mountain environment and the economic pursuits of gemstone extraction and craftsmanship defines the essence of Gemshire.
 ## Government
 Gemshire has a mayor who is in charge of local management. They are the official leader of the local militia and tries to maintain public order. There is a public vote once every five years to elect a new mayor. Their office is located at the central square. It has a publicly accessible ground floor with the mayor's private rooms and office above. The mayor usually personally decides on essential topics, as the city is not really large enough to justify a complex system of ministries.
-## Defences
+## Defenses
 A small militia of around 50 soldiers maintains security and public order. The dedicated garrison is located near the eastern entrance of the town. It has a small public office for people to raise voice problems. The back rooms contain gear and sleeping quarters for the currently working soldiers. 
 
 A few guards patrol the city once every few hours to check if everything is in order. The soldiers also talk to every newcomer to the city to ask about their intentions. Still, the general security level is not that high, as there are no real threats to a town that small apart from the occasional bandits trying to get valuable gems.
