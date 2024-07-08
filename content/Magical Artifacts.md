@@ -2,4 +2,10 @@ A magical artifact has two main components: A power source and an information so
 ## Energy Source
 Every active [[Aura]] can be used to draw energy from. This makes a [[Livith]] crystal the perfect source to power an artifact over longer periods of time, but the energy can also come from the user who is using the artifact. All they need to do is push energy into the artifact to start whatever spell is engraved into the information source. 
 ## Information Source
-The information source defines, what happens when a magical artifact is used. It is the physical image of a [[Magic|Refined Spell]], a spell the creator of an artifact has mastered. They engraved their understanding and knowledge about the spell onto the information source. 
+The information source defines, what happens when a magical artifact is used. It is the physical image of a [[Magic|Refined Spell]], one the creator of an artifact has mastered. They engraved their understanding and knowledge about the spell onto the information source. 
+
+The appearance of this information source is different for each creator. It expresses the personality of the crafter. A musician might imbue a spell into a flute, while an engineer writes down the logic of their magic in their own systematic language on a piece of paper. The source object can practically be anything. After imbuing, the objects composition changes. It becomes energetically charged and becomes easily recognizable as information source to magicians. 
+## Soul Shards
+A special type of magical artifact is the so-called *soul shard*. It is a refined and stabilized piece of Livith, that contains a living soul. The bigger and pure the used crystal is, the more complex and powerful, the trapped soul can be. These shards are created with spells binding souls without a body to a Livith crystal. They can also be formed naturally, by not-yet vanished souls escaping to a crystal nearby.
+
+These crystals enable users to access the mind and powers trapped in the crystal. The crystal must be in the innermost area of the users [[Aura]], inside their body. The user and trapped soul must cooperate, to enable the user to really use the trapped powers. This makes using a soul shard quite dangerous, as not only the user can tap into the power of the soul, but the soul also is capable of influencing the user. 

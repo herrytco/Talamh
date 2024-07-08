@@ -1,0 +1,11 @@
+Located in the western mountains of [[High Soria]] lies the High Sorian University, an institution for training and educating new mages. The school itself is built on a [[Livith]] deposit and actively mines the precious material. 
+## Architecture
+The university is a fortress in the western mountains of High Soria. It is built from the very stone of the mountain itself, making it blend in its environment perfectly. Countless towers and spires reach skyward, looking like dark teeth in the sky. Many of them are connected with small bridges, creating a complicated network of ways.
+
+The main entrance is a giant gate, made from black steel. A path leads from the bottom of the mountain to the main square. It is easy to defend as it leads over several bridges, each build to make it collapse in the case of an emergency. 
+### Fighting Arena
+A large arena is located at the foot of the mountain. Its entrance lies directly at the main road leading to the castle itself. The arena is a round structure with a diameter of around 150m. It contains a circular fighting ground with seats arranged around it. Below the viewer area lies a storage compound. Training gear, obstacles, and maintenance tools are stored there. 
+
+The arena is used by students for regular, non-magical activity, but also for practicing more dangerous kinds of magic. An elaborate shielding system was created for this very purpose. The individual artifacts are powered by a gigantic Livith shard located below the fighting grounds. It is a weekly duty for new students to feed the crystal with a part of their own energy to always have enough capacity ready. 
+### Livith Mine
+Below the fortress itself lies the largest Livith mine found in High Soria. Its entrance is in the basement of the fortress, well protected by security measures. The mining and processing of raw Livith is all done within the university, usually in the lower levels of the castle. Only selected personnel and higher students with a special permit are allowed to enter these restricted areas.
