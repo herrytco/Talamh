@@ -1,1 +1,1 @@
-High Soria is the northern-most country in Isholion. It is separated from the rest of the continent by a mountain range with only a few available safe passes. 
+High Soria is the northern-most country in Isholion. It is separated from the rest of the continent by a mountain range with only a few available safe passes. Its capital is [[Zholis]]. 

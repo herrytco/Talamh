@@ -8,7 +8,7 @@ When two people come close to each other, their individual Auras repel each othe
 - Age. The size and shape of an Aura naturally changes over time. Generally, it is larger and erratic during a younger age, and calm and controlled when people reach an older age
 
 ## Identity
-Without actively changing it, each Aura is imbued with the owners identity. This means that the energy field resonates at a specific frequency unique to the owner and it repels foreign Aura. However, it is possible to alter the properties of the own Aura. With enough training and control, people can regulate size, density and resonance frequency of their Aura.
+Without actively changing it, each Aura is imbued with the owners identity. This means that the energy field resonates at a specific frequency unique to the owner and it repels foreign Aura. This frequency is not static and changes in a pattern unique to the owner. The changing pattern is what mages refer to as **identity**.  It is possible to alter the properties of the own Aura. With enough training and control, people can regulate size, density and resonance frequency of their Aura.
 ## Aura and Magic
 [[Magic]] can originate in the casters own Aura only. However, there is an additional energy effort to consider when sustaining a spell outside of your Aura. There are three distinct zones, that dictate how high this cost is:
 

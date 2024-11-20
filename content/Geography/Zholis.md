@@ -1,0 +1,1 @@
+Capital of High Soria.
