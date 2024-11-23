@@ -1,4 +1,4 @@
-# [Thalam](https://herrytco.github.io/Talamh/)
+# [Talamh](https://herrytco.github.io/Talamh/)
 
 This is a collection of articles describing the world Talamh, a fantasy world used for TTRPGs.
 [Explore the world.](https://herrytco.github.io/Talamh/)
