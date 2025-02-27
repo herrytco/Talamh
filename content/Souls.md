@@ -1,3 +1,7 @@
+---
+aliases:
+  - Demons
+---
 A soul can only be created by two or more facets working in union. Souls contain all information that make living beings unique. This includes their personality, talents, interests, and even memories. It is also the root of a persons [[Aura]], marking the origin of their individual energy field. The resulting souls show clear engravings traceable to their facets.
 
 Souls reside in the [[Planes|Spiritual Plane]] until they find a body they belong to. They show strong similarities to [[Vitalis]] deposits and can, as such, be manipulated and altered by strong forces.

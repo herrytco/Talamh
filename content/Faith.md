@@ -1,0 +1,22 @@
+The nature of the world and the actual [[Gods]] are not known all too well in the public. Actual faith in Talamh is decentralized and deeply tied to local legends. In most cultures and settlements, people worship local [[Souls|Demons]], powerful entities that shaped local history and left behind myths and legends. These figures are often seen as protectors, guides or forces of fate. 
+
+The common folk is not forbidden to learn about [[Gods|Facets]], in fact, there were several attempts (by the Church of Life, or the [[High Sorian University]] for example) to educate people about the latest research results. However, people actively rejected these teachings, as they preferred to believe in local, tangible entities that (in most cases) left behind actual traces of their deeds. To a farmer, a merchant, or even a warrior, the existence of facets is completely irrelevant, they have no influence on their daily lives. Local protectors, however, actively shaped the local community, naturally people flocked around those as religious figures. 
+
+The belief in a certain figure lead to highly regional communities unified by their faith. These communities are not always friendly or even peaceful towards other religious communities. Religious conflicts happen on a regular basis, be it because two groups claim the same sacred site for their community, or because a "deity" is especially bloodthirsty.
+## Popular Religious Figures in the North
+
+There are countless smaller myths and legends where a demon did something noteworthy and a small village remembers them well enough to qualify as a "religious figure". However, there are several larger beings that gained a larger amount of followers during their lifetimes. 
+### Dorithar, the Iron Sage - Architect of Order
+A fatal accident in the High Sorian University was the birth of this demon. A sudden explosion in the early days of [[Runic Spellcrafting]] wiped out an entire class of scholars. The strong will of some lead to the formation of the demon Dorithar. He was said to be a genius in magical research and is believed to be the founder of runic spellcrafting. 
+
+Today, a statue of Dorithar is located in the main hall of the university. The stories of him were retold often, and everyone added some aspect to them to the point where nobody knows what really happened and what was only fiction.
+
+*And so, Dorithar stood before the final stone, his chisel hovering over the uncarved rune. He knew—once struck, the world would change, and magic would never be the same again. But before the blow could land, the ground trembled, the air turned to dust, and the Sage was gone. To this day, the rune remains unfinished, waiting for the one who dares to complete it.*
+### Lady Saelwyn - The Gate That Leads Nowhere
+Lady Saelwyn suddenly appeared in High Soria, her origin is unknown. She was a master of teleportation and she helped the people by opening gates for them to turn travels, that should take weeks, into mere seconds. Her biggest legacy are the **seven golden gates**, permanent portals, usable by strong enough magic users.
+
+*With a stroke of her staff, the air itself split, folding into a doorway of gold. Lady Saelwyn Hollow had done what no mage before her could—she stepped from the mountaintop of High Soria to the shores of the Eastern Wastes in a single breath. They say she built the _Seven Golden Gates_, bridges between places that should never touch. But on the eighth, she vanished—stepping into a portal that never reopened. And somewhere, in the depths of High Soria, the last gate still gleams, waiting for her return.*
+### Kheron Vey, the Silver Duelist – Death’s Last Challenger
+This particular demon wandered the continent seeking for the next challenge. He was a philosopher as well as he was a duelist. His trademark was a silver rapier, a weapon he used in every known duel. In his opinion, every fight is a conversation, every attack a question, every parry an answer. He wanted to learn more about the people and so he traveled the continent searching for honorary challenges. It is said that his blade, *Argent Requiem* is still around, waiting for a worthy wielder 
+
+*Before him stood his greatest opponent, the only foe who had never lost. Kheron Vey smiled, bowing as he always did. 'I hope you make this interesting,' he said, and then he struck—once, twice, thrice! But the figure only laughed, and when the dust settled, both were gone. Some say the duel still rages, unseen, waiting for a champion to break the stalemate.*
