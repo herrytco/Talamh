@@ -1,4 +1,4 @@
-Gemshire, situated in the western mountains of [[High Soria]], is a utilitarian village characterized by its specialization in gem cutting and stone masonry. The village is strategically located near a productive mine carved into the mountains, providing a consistent supply of various gems.
+Gemshire, situated in the southern mountains of [[High Soria]] in [[Drakenvold and House Dornstahl|Drakenvold]], is a utilitarian village characterized by its specialization in gem cutting and stone masonry. The village is strategically located near a productive mine carved into the mountains, providing a consistent supply of various gems.
 
 The surrounding forest, dense with evergreen trees, contributes to the village's ambiance. Gemshire is recognized for its approach to resource extraction, with miners efficiently extracting precious stones like sapphires and emeralds from the nearby mine.
 

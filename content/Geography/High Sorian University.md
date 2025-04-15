@@ -1,4 +1,4 @@
-Located in the western mountains of [[High Soria]] lies the High Sorian University, an institution for training and educating new mages. The school itself is built on a [[Livith]] deposit and actively mines the precious material. 
+Located in the southwestern mountains of [[High Soria]] lies the High Sorian University, an institution for training and educating new mages. The school itself is built on a [[Livith]] deposit and actively mines the precious material. 
 ## Architecture
 The university is a fortress in the western mountains of High Soria. It is built from the very stone of the mountain itself, making it blend in its environment perfectly. Countless towers and spires reach skyward, looking like dark teeth in the sky. Many of them are connected with small bridges, creating a complicated network of ways.
 
