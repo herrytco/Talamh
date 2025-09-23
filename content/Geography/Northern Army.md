@@ -1,0 +1,16 @@
+[[High Soria]] is divided into provinces rules by a politically powerful house. While all houses belong to the same nation, they are not maintaining friendly relationships with each other. In some cases, conflicts sparked between houses over territory or power, leading to the [[Northern Civil War]] as a consequence, an armed conflict encompassing all houses of High Soria.
+
+This division is the main reason that each house maintains their own standing army, that directly reports to them. These troops are stationed in the respective provinces garrisons and the High Lord there is responsible for maintaining and training their soldiers. Each province specializes in certain types of soldiers depending on terrain and location of the land. Vintermark, for example focuses on their fleet, while Drakenvold mainly holds a disciplined infantry. 
+
+Each house is required to meet a quota from the capital regarding the number and equipment-level of their soldiers. Apart from that minimum, they are free to invest more funds into their army. It is forbidden for these troops to cross the borders of a province in their role as soldiers. This was concluded in the **Northern Peace Pact**, a document that was collectively created after the civil war to form and maintain peace in High Soria. 
+## The Common Ranks
+- **Soldiers** form the foundation of the army, trained in arms according to the customs of their province. They serve as the living shield of their house, and their loyalty is sworn to the banner they march beneath.
+- **Corporals** are chosen from among the seasoned to lead small bands, keeping order in the field and discipline on the march.
+- **Sergeants** bear greater burdens still, commanding scores of men and serving as the backbone of discipline. Their authority is rarely questioned, for their word in camp and battle is law to those beneath them.
+## The Officer Ranks
+- **Lieutenants** are drawn from those who have completed their studies at the military academies of High Soria. Their training marks them as leaders, and even at their first commission they are entrusted with the command of platoons and the weight of tactical judgment.
+- **Captains** command companies of near a hundred, and their academy education is tested in the balance of arms, supply, and discipline. They stand as the first true officers of their House’s army, often forming the bridge between the nobility and the common soldiery.
+- **Colonels** hold sway over entire regiments and act as the hand of their General. Beyond the battlefield they are administrators, logisticians, and stewards of their House’s martial strength. No Colonel stands without years of service, proven both in the field and in the academy’s doctrine.
+## The Generals and Beyond
+- **Generals** are appointed by their House to command its entire provincial force. This rank is never merely martial: a General’s voice carries into the chambers of power, for they serve as both shield and sword of their House’s will.
+- **High Generals** are representatives of each house in the capital. They represent their province in the capital and serve as advisors to the [[Northern Council]] in military matters. 
