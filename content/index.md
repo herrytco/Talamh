@@ -14,3 +14,5 @@ This is a collection of articles describing the world *Talamh*, a fantasy world 
 # Geography
 - [[High Soria]]
 - [[Gemshire]]
+- [[Sablemaw]]
+- [[Seastone Cavern]]
