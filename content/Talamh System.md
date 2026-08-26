@@ -105,13 +105,13 @@ Melee weapons can be categorized into different archetypes. These types determin
 - Damage-Rolls
 - Special actions (if any)
 
-| Archetype | Hit-Roll | Damage-Roll |
-| --- | --- | --- |
-| Hammer | STR+Combat(Melee) | 3d5+STRMOD |
-| Axe | STR+Combat(Melee) | 2+1d6+1d5+STRMOD |
-| Sword | STR+Combat(Melee) OR DEX+Combat(Melee) | 4+1d4+1d3+STRMOD OR 4+1d4+1d3+DEXMOD |
-| Spear | DEX+Combat(Melee) | 5+1d3+1d2+DEXMOD |
-| Bow | DEX+Combat(Ranged) | 3+1d6+1d4+DEXMOD |
+| Archetype | Hit-Roll | Damage-Roll | Expected Damage |
+| --- | --- | --- | --- |
+| Hammer | STR+Combat(Melee) | 3d5-3+STRMOD | 6 + STRMOD |
+| Axe | STR+Combat(Melee) | 1d6+1d5+STRMOD | 6.5 + STRMOD |
+| Sword | STR+Combat(Melee) OR DEX+Combat(Melee) | 2+1d4+1d3+STRMOD OR 2+1d4+1d3+DEXMOD | 6.5 + STRMOD/DEXMOD |
+| Spear | DEX+Combat(Melee) | 3+1d3+1d2+DEXMOD | 6.5 + DEXMOD |
+| Bow | DEX+Combat(Ranged) | 1d6+1d4+DEXMOD | 6 + DEXMOD |
 
 ### 4.2 Initiative
 At the start of combat, characters can roll on either **DEX** or **INT**. The higher the result of the roll, the earlier this character can act in combat. They can delay their turn as far back as they want. Initiative marks only the **first** opportunity to act.
@@ -183,7 +183,15 @@ If a character has applicable cover between them and the attacker, the cover mod
 | Total Cover | Cannot normally be targeted | Staying behind a wall |
 
 ##### 4.5.1.2 Armor
-Armor reduces the damage dealt by its Protection value. If incoming damage is higher than 6, at least one point of damage is dealt. If incoming damage is higher than 6, the armor value is reduced by 1, which can be repaired.
+Armor reduces incoming damage by its Protection value, but only if it actually covers the body part that was hit; an exposed location (e.g. an unarmored head) takes full damage regardless of armor worn elsewhere. A hit always deals at least 1 damage, even if fully absorbed by a covered part.
+
+If a single attack's *raw* damage (before any reduction) is 12 or higher, the armor's Protection is reduced by 1 until repaired — only a sufficiently powerful blow wears armor down, regardless of its tier.
+
+| Armor | Protection |
+| --- | --- |
+| Light (leather/padded) | 1 |
+| Medium (mail/brigandine) | 3 |
+| Heavy (plate) | 4 |
 
 #### 4.5.2 Active Protection
 Characters are allowed to react to the first incoming attack with an active defensive action.
